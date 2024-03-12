@@ -1,0 +1,14 @@
+E:\pbo\PBO\obj\Debug\net8.0\PBO.GeneratedMSBuildEditorConfig.editorconfig
+E:\pbo\PBO\obj\Debug\net8.0\PBO.AssemblyInfoInputs.cache
+E:\pbo\PBO\obj\Debug\net8.0\PBO.AssemblyInfo.cs
+E:\pbo\PBO\obj\Debug\net8.0\PBO.csproj.CoreCompileInputs.cache
+E:\pbo\PBO\bin\Debug\net8.0\PBO.exe
+E:\pbo\PBO\bin\Debug\net8.0\PBO.deps.json
+E:\pbo\PBO\bin\Debug\net8.0\PBO.runtimeconfig.json
+E:\pbo\PBO\bin\Debug\net8.0\PBO.dll
+E:\pbo\PBO\bin\Debug\net8.0\PBO.pdb
+E:\pbo\PBO\obj\Debug\net8.0\PBO.dll
+E:\pbo\PBO\obj\Debug\net8.0\refint\PBO.dll
+E:\pbo\PBO\obj\Debug\net8.0\PBO.pdb
+E:\pbo\PBO\obj\Debug\net8.0\PBO.genruntimeconfig.cache
+E:\pbo\PBO\obj\Debug\net8.0\ref\PBO.dll
